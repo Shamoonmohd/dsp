@@ -3,7 +3,7 @@ load DataEOG.txt
 x = DataEOG;
 
 n = 1: 600;
-
+% comment is added 
 subplot(2,1,1)
 plot(n,x)
 
