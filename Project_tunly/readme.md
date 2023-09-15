@@ -7,6 +7,7 @@ The audio profile is made with signal processing concepts such as [STFT](https:/
 This software is made in collab with :
 * Rituraj Singh Gehlot (rsg8554@nyu.edu)
 * Aradhya Alamuru (aa9405@nyu.edu)
+* Mohammad Shamoon (ms12736@nyu.edu)
 
 
 The program uses following libraries for the audio processing, GUI and database management. 
